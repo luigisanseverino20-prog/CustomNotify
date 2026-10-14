@@ -1,0 +1,13 @@
+name: CustomNotify
+version: 2.0
+main: it.luigisanseverino.customnotify.Main
+api-version: 1.21
+description: Messaggi e notifiche completamente personalizzabili
+author: LuigiSanseverino
+
+commands:
+  cnreload:
+    description: Ricarica la configurazione di CustomNotify
+    usage: /cnreload
+    permission: customnotify.reload
+    permission-message: Non hai il permesso per usare questo comando.

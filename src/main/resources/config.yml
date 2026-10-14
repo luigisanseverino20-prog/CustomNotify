@@ -1,0 +1,9 @@
+messages:
+  join: "&#00FF94✦ Benvenuto &e{player} &#00FF94nel server! &7| &f{time}"
+  quit: "&#FF5733✦ {player} &fha lasciato il server &7| &f{time}"
+  death: "&#FF0000✦ {player} &fha incontrato il suo destino..."
+
+settings:
+  join-enabled: true
+  quit-enabled: true
+  death-enabled: true
